@@ -8,7 +8,9 @@ This codelab is not intended to cover the quantization schema design or quantiza
 
 # Materials
 [TensorFlow Lite Model Optimization Toolkit](https://www.tensorflow.org/lite/performance/model_optimization)
+
 [GemmLowp](https://github.com/google/gemmlowp)
+
 [TensorFlow Lite Kernels](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/kernels)
 
 # Credits
