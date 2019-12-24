@@ -55,3 +55,8 @@ def dequant(tensor):
 def diff(value1, value2):
   diff = np.abs(value1 - value2)
   return np.sum(diff) / (value1.size * 1.0)
+
+
+def max_diff(value1, value2):
+  diff = np.abs(value1 - value2)
+  return np.max(diff)
