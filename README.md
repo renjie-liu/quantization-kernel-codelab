@@ -6,6 +6,15 @@ Python is obvious much more easier to read and understand.
 
 This codelab is not intended to cover the quantization schema design or quantization recipes for different kernels.
 
+# Kernel Supported
+
+* Mul
+
+* Fixed Point add, sub, mul
+* Fixed Point div
+* Fixed Point sin
+* Fixed Point tanh
+
 # Materials
 [TensorFlow Lite Model Optimization Toolkit](https://www.tensorflow.org/lite/performance/model_optimization)
 
